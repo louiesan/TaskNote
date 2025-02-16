@@ -101,6 +101,15 @@ body {
   }
 }
 
+.tsTex {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 3px solid lightgray;
+  background-color: transparent;
+  cursor: pointer;
+}
+
 .text {
   width: 200px;
   height: 30px;
